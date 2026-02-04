@@ -27,3 +27,4 @@ yes_style.css: The css file that styles the yes webpage.
 Key Functions:
 handleNoClick(): Changes the "No" button text and increases the size of the "Yes" button.
 handleYesClick(): Redirects the user to yes_page.html.
+[index (1).html](https://github.com/user-attachments/files/25071522/index.1.html)
